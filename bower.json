@@ -1,0 +1,30 @@
+{
+  "name": "thumbtack",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Tali Walt <taliwalt@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "moment": "~2.10.6",
+    "angular-strap": "~2.3.4",
+    "angular-route": "~1.4.7",
+    "angular-ui-router": "ui-router#~0.2.15",
+    "angular-animate": "~1.4.7",
+    "messages": "~0.1.0",
+    "angular-mocks": "~1.4.7",
+    "angular-resource": "~1.4.7"
+  }
+}
